@@ -1,11 +1,11 @@
 #!/usr/bin/perl -w
-########################################################
-# @author wackoen
-# @wackoen@geekshelves.com
-# @Description 
-#   * generate authentication for postfix smtp telnet
-#
-########################################################
+#/**
+# * @author freakie <faizal@geekshelves.com>
+# * @Description 
+# *  - generate smtp password hash when telnet for mail sending testing
+# *
+#**/
+
 
 use MIME::Base64;
 use feature 'switch';
