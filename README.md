@@ -4,3 +4,4 @@
  - usage (terminal) : perl gen-passwd.pl
  - requirement : perl 
  - tested : only linux 
+ - Details do refer https://github.com/wackoen/smtp-passgen/wiki
